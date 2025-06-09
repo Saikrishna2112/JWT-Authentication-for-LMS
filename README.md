@@ -136,6 +136,3 @@ You can use a tool like Postman, Insomnia, or curl to test the API endpoints.
 
 Feel free to fork the repository, open issues, and submit pull requests.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
